@@ -1,0 +1,16 @@
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Educational\CSharp\ch21studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\Educational\CSharp\ch21studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
